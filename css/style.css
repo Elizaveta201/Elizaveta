@@ -1,0 +1,156 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: burlywood;
+}
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+
+.sitename{
+    color: white;
+    margin-left: 140px;
+    padding: 0px;
+}
+
+.wrapper{
+    background-color: white;
+    width: 800px;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+a{
+    color: rgb(6, 112, 41);
+}
+
+.container{
+    display: flex;
+}
+
+main {
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+    text-align: justify;
+    margin: 0px;
+}
+
+main h1{
+    color:rgb(167, 103, 7);
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    width: 740px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.right{
+    width: 400px;
+    margin-left: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.block{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+nav a{
+    margin: 40px;
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+}
+
+.text{
+    background-color: bisque;
+    text-decoration: none;
+    color:  rgb(7, 122, 63);
+    list-style: none;
+}
+
+.text h2{
+    color: antiquewhite;
+    background-color: rgb(6, 131, 180);;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.text li{
+     padding-bottom: 10px;
+     padding-left: 20px;
+     list-style: none;
+
+}
+.text2 h2{
+    color: antiquewhite;
+    background-color: rgb(6, 131, 180);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.text2 li{
+     padding-bottom: 10px;
+     list-style: none;
+     padding-left: 20px;
+}
+
+
+.text1{
+    background-color: bisque;
+    padding: 3px;
+}
+
+.text1 h2{
+    color: antiquewhite;
+    background-color: rgb(6, 131, 180);
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+
+.text2{
+    background-color: bisque;
+    text-decoration: none;
+    color:  rgb(7, 122, 63);
+    list-style: none;
+}
+
+
+footer{
+    padding: 20px 30px;
+    text-align: center;
+    background-color: rgb(212, 197, 129);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 80px;
+}
+
+.joining{
+    margin: 0px;
+    padding: 0px;
+}
+
+.text ul{
+    padding: 10px;
+}
